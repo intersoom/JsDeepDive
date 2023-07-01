@@ -3,7 +3,7 @@
 
 |📚 챕터|🔗 링크|
 |:------|:---|
-|1장|[프로그래밍](https://github.com/jsDeepDive/chapter1)|
+|1장|[프로그래밍](https://github.com/jsDeepDive/chapter1.md)|
 |2장|자바스크립트란?|
 |3장|자바스크립트 개발 환경과 실행 방법|
 |4장|변수|
