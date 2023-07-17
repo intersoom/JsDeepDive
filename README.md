@@ -7,4 +7,5 @@
 |2장|자바스크립트란?|
 |3장|자바스크립트 개발 환경과 실행 방법|
 |4장|[변수](https://github.com/intersoom/JsDeepDive/blob/main/jsDeepDive/chapter4.md)|
-|5장|[표현식과 문]()
+|5장|[표현식과 문](https://github.com/intersoom/JsDeepDive/blob/main/jsDeepDive/chapter5.md)|
+|6장|[데이터 타입](https://github.com/intersoom/JsDeepDive/blob/main/jsDeepDive/chapter6.md)|
